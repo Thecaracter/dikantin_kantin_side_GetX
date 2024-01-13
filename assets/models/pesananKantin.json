@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "foto": "menu/HvUL2FL75oZyzqvSqQMIqwy0sz3z0lZPG81YSNyM.png",
+            "id_menu": 17,
+            "id_detail": "TRDKN6988",
+            "tanggal": "2023-12-06 19:18:57",
+            "kode_tr": "TRDKN6988",
+            "pembeli": "gggamink",
+            "no_telepon_pembeli": "083172671",
+            "model_pembayaran": "cash",
+            "no_meja": 1,
+            "kantin": 1,
+            "pesanan": "Es Jeruk",
+            "harga_satuan": 3000,
+            "jumlah": 1,
+            "diskon": null,
+            "status": "proses",
+            "status_detail": "menunggu"
+        },
+        {
+            "foto": "menu/lJu3UQn5Urh4f6yIvB1isfLjfuah1GaFGXRQHR8R.png",
+            "id_menu": 15,
+            "id_detail": "TRDKN6988",
+            "tanggal": "2023-12-06 19:18:57",
+            "kode_tr": "TRDKN6988",
+            "pembeli": "gggamink",
+            "no_telepon_pembeli": "083172671",
+            "model_pembayaran": "cash",
+            "no_meja": 1,
+            "kantin": 1,
+            "pesanan": "Nasi Goreng",
+            "harga_satuan": 8000,
+            "jumlah": 1,
+            "diskon": null,
+            "status": "proses",
+            "status_detail": "menunggu"
+        },
+        {
+            "foto": "menu/rjwJkLd1Zo5RvWutZWqFuiEKF8MjklFkX1M0gZCC.png",
+            "id_menu": 13,
+            "id_detail": "TRDKN6988",
+            "tanggal": "2023-12-06 19:18:57",
+            "kode_tr": "TRDKN6988",
+            "pembeli": "gggamink",
+            "no_telepon_pembeli": "083172671",
+            "model_pembayaran": "cash",
+            "no_meja": 1,
+            "kantin": 1,
+            "pesanan": "Aqua",
+            "harga_satuan": 3000,
+            "jumlah": 1,
+            "diskon": null,
+            "status": "proses",
+            "status_detail": "menunggu"
+        }
+    ],
+    "code": 200,
+    "status": true
+}

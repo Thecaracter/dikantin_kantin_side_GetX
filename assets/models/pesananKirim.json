@@ -1,0 +1,181 @@
+{
+    "data": [
+        {
+            "status": "proses",
+            "transaksi": {
+                "kode_tr": "TRDKN2708",
+                "status_konfirm": "1",
+                "status_pesanan": "3",
+                "tanggal": "2023-11-26 13:40:50",
+                "id_customer": "CUST98273",
+                "id_kurir": "3219",
+                "id_kasir": null,
+                "total_bayar": 11000,
+                "total_harga": 11000,
+                "kembalian": 0,
+                "status_pengiriman": "proses",
+                "bukti_pengiriman": null,
+                "no_meja": 0,
+                "model_pembayaran": "cash",
+                "expired_at": "2023-11-26 13:41:50",
+                "created_at": "2023-12-03T09:57:10.000000Z",
+                "updated_at": "2023-12-03T11:37:33.000000Z",
+                "nama": "fathur",
+                "no_telepon": "32e233dw3",
+                "email_verified": 1,
+                "kode_verified": null,
+                "token": "BdSdZGIkyHZKNKeFXrxQIsOBOu52rcdroMpTW8E70DbSAu3VjkidwxZ1fdn6DtlY0QwxsgoTcVIpLHzzaHTuzx3OQUplWHxl7GlGyE9g9Y3h3Sj5lNeKHG1kwqmfPjfS7XYhhDkr128h7ZwRntfl6YW9BVIiZiOvuQjGGyz4z6ZCHfuENGse3dFByq3E1AqOSLU4HhZb",
+                "token_fcm": null,
+                "alamat": "Jl.Cempaka No.7 Gebang, Jember Rw.4 Rt.2",
+                "email": "fathurrahman.dk@gmail.com",
+                "password": "$2y$10$h8ElOD1nOK6SO1/ZBITM2./T.YnvCXVzogmSd1R0GhSMyMMrlwGLC",
+                "foto": null,
+                "google_id": null,
+                "detail_transaksi": [
+                    {
+                        "kode_tr": "TRDKN2708",
+                        "QTY": 4,
+                        "subtotal_bayar": 40000,
+                        "kode_menu": 20,
+                        "status_konfirm": "menunggu",
+                        "created_at": "2023-11-09T22:17:55.000000Z",
+                        "updated_at": "2023-11-10T05:46:28.000000Z",
+                        "menu": {
+                            "id_menu": 20,
+                            "nama": "Ayam Geprek",
+                            "harga": 10000,
+                            "foto": "menu/jSU3bn6yUBulPNfClPWfA0HFZNU0NheKTfyMdjiS.png",
+                            "status_stok": "ada",
+                            "kategori": "makanan",
+                            "id_kantin": 2,
+                            "diskon": null,
+                            "created_at": "2023-04-18 23:58:10",
+                            "updated_at": "2023-05-09 09:53:23"
+                        }
+                    },
+                    {
+                        "kode_tr": "TRDKN2708",
+                        "QTY": 1,
+                        "subtotal_bayar": 3000,
+                        "kode_menu": 13,
+                        "status_konfirm": "menunggu",
+                        "created_at": "2023-11-26T06:40:50.000000Z",
+                        "updated_at": "2023-11-26T10:04:43.000000Z",
+                        "menu": {
+                            "id_menu": 13,
+                            "nama": "Aqua",
+                            "harga": 3000,
+                            "foto": "menu/rjwJkLd1Zo5RvWutZWqFuiEKF8MjklFkX1M0gZCC.png",
+                            "status_stok": "ada",
+                            "kategori": "minuman",
+                            "id_kantin": 1,
+                            "diskon": null,
+                            "created_at": "2023-04-14 09:40:19",
+                            "updated_at": "2023-05-08 14:29:57"
+                        }
+                    },
+                    {
+                        "kode_tr": "TRDKN2708",
+                        "QTY": 1,
+                        "subtotal_bayar": 8000,
+                        "kode_menu": 15,
+                        "status_konfirm": "menunggu",
+                        "created_at": "2023-11-26T06:40:50.000000Z",
+                        "updated_at": "2023-11-26T10:04:43.000000Z",
+                        "menu": {
+                            "id_menu": 15,
+                            "nama": "Nasi Goreng",
+                            "harga": 8000,
+                            "foto": "menu/lJu3UQn5Urh4f6yIvB1isfLjfuah1GaFGXRQHR8R.png",
+                            "status_stok": "ada",
+                            "kategori": "makanan",
+                            "id_kantin": 1,
+                            "diskon": null,
+                            "created_at": "2023-04-14 09:55:36",
+                            "updated_at": "2023-05-08 14:30:06"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "status": "proses",
+            "transaksi": {
+                "kode_tr": "TRDKN5138",
+                "status_konfirm": "1",
+                "status_pesanan": "3",
+                "tanggal": "2023-11-26 13:49:41",
+                "id_customer": "CUST98273",
+                "id_kurir": "3219",
+                "id_kasir": null,
+                "total_bayar": 8000,
+                "total_harga": 8000,
+                "kembalian": 0,
+                "status_pengiriman": "proses",
+                "bukti_pengiriman": null,
+                "no_meja": 0,
+                "model_pembayaran": "cash",
+                "expired_at": "2023-11-26 13:50:41",
+                "created_at": "2023-12-03T09:57:10.000000Z",
+                "updated_at": "2023-12-03T11:37:33.000000Z",
+                "nama": "fathur",
+                "no_telepon": "32e233dw3",
+                "email_verified": 1,
+                "kode_verified": null,
+                "token": "BdSdZGIkyHZKNKeFXrxQIsOBOu52rcdroMpTW8E70DbSAu3VjkidwxZ1fdn6DtlY0QwxsgoTcVIpLHzzaHTuzx3OQUplWHxl7GlGyE9g9Y3h3Sj5lNeKHG1kwqmfPjfS7XYhhDkr128h7ZwRntfl6YW9BVIiZiOvuQjGGyz4z6ZCHfuENGse3dFByq3E1AqOSLU4HhZb",
+                "token_fcm": null,
+                "alamat": "Jl.Cempaka No.7 Gebang, Jember Rw.4 Rt.2",
+                "email": "fathurrahman.dk@gmail.com",
+                "password": "$2y$10$h8ElOD1nOK6SO1/ZBITM2./T.YnvCXVzogmSd1R0GhSMyMMrlwGLC",
+                "foto": null,
+                "google_id": null,
+                "detail_transaksi": [
+                    {
+                        "kode_tr": "TRDKN5138",
+                        "QTY": 1,
+                        "subtotal_bayar": 5000,
+                        "kode_menu": 10,
+                        "status_konfirm": "menunggu",
+                        "created_at": "2023-11-26T06:49:41.000000Z",
+                        "updated_at": "2023-11-26T10:04:43.000000Z",
+                        "menu": {
+                            "id_menu": 10,
+                            "nama": "Gado-gado",
+                            "harga": 5000,
+                            "foto": "menu/MU1qcs3g6pNoNfhZmhspeOQEylRXU4Nl3Ki8DNJu.png",
+                            "status_stok": "ada",
+                            "kategori": "makanan",
+                            "id_kantin": 3,
+                            "diskon": null,
+                            "created_at": "2023-04-14 08:45:50",
+                            "updated_at": "2023-05-02 13:32:03"
+                        }
+                    },
+                    {
+                        "kode_tr": "TRDKN5138",
+                        "QTY": 1,
+                        "subtotal_bayar": 3000,
+                        "kode_menu": 11,
+                        "status_konfirm": "menunggu",
+                        "created_at": "2023-11-26T06:49:41.000000Z",
+                        "updated_at": "2023-11-26T10:04:43.000000Z",
+                        "menu": {
+                            "id_menu": 11,
+                            "nama": "Es Teh",
+                            "harga": 3000,
+                            "foto": "menu/A6x5TjzFfKJ39oOyDJOeCTuvffL56HD0KmWn4ipd.png",
+                            "status_stok": "ada",
+                            "kategori": "minuman",
+                            "id_kantin": 4,
+                            "diskon": null,
+                            "created_at": "2023-04-14 09:39:20",
+                            "updated_at": "2023-05-03 11:12:04"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "code": 200,
+    "status": true
+}

@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id_menu": 13,
+            "nama": "Aqua",
+            "harga": 3000,
+            "foto": "menu/aqua.jpg",
+            "status_stok": "ada",
+            "kategori": "minuman",
+            "id_kantin": 1,
+            "diskon": 10
+        },
+        {
+            "id_menu": 16,
+            "nama": "Ayam Bakar",
+            "harga": 12000,
+            "foto": "menu/ayam_bakar.jpg",
+            "status_stok": "ada",
+            "kategori": "makanan",
+            "id_kantin": 1,
+            "diskon": 10
+        },
+        {
+            "id_menu": 15,
+            "nama": "Nasi Goreng",
+            "harga": 8000,
+            "foto": "menu/nasi.jpeg",
+            "status_stok": "ada",
+            "kategori": "makanan",
+            "id_kantin": 1,
+            "diskon": 10
+        }
+    ],
+    "code": 200,
+    "status": true
+}

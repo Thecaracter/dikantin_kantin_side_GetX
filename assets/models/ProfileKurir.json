@@ -1,0 +1,16 @@
+{
+    "data": {
+        "id_kurir": "3219",
+        "email": "DwiK@gmail.com",
+        "nama": "Dwi ",
+        "status": 0,
+        "token": "v6GhOSlTe7nYq1b3WYyTo04UYL3dXZgRgSVugpUhxmIkqyoCwpAkU6NQfXIYBDVJ8RtE0g4aTjiSoI5VfUPs5rTO4LFDYOgrQXbSjt28XyJpQ6ZhW7oQ3kKrJSQyrtINMybyrJpIVKsCLmgn5ggLIL7Ghir0SKk2i0Fejsff8SYSbP4NVWkWJPSIkxgUlmAWlJr67pjr",
+        "token_fcm": "anjaysdgayg",
+        "telepon": "089778866889",
+        "foto": null,
+        "created_at": "2023-11-14T15:34:33.000000Z",
+        "updated_at": "2023-12-06T07:56:31.000000Z"
+    },
+    "code": 200,
+    "status": true
+}

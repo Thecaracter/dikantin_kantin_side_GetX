@@ -1,0 +1,49 @@
+name: dikantin
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=3.1.2 <4.0.0"
+
+dependencies:
+  android_intent_plus: ^4.0.3
+  badges: ^3.1.2
+  carbon_icons: ^0.0.1+2
+  connectivity_plus: ^5.0.0
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.24.0
+  firebase_messaging: ^14.7.6
+  flutter:
+    sdk: flutter
+  flutter_barcode_scanner: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_local_notifications: ^14.0.0
+  flutter_otp_text_field: ^1.1.1
+  geocoding: ^2.1.0
+  geolocator: ^10.1.0
+  get: 4.6.6
+  google_fonts: ^4.0.4
+  http: ^1.1.0
+  icons_flutter: ^0.0.4
+  image_picker: ^1.0.4
+  intl: ^0.18.1
+  lottie: ^2.7.0
+  pin_code_fields: ^8.0.1
+  pull_to_refresh: ^2.0.0
+  qr_flutter: ^4.1.0
+  shared_preferences: ^2.2.2
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logoLauncher.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/

@@ -1,0 +1,19 @@
+{
+    "data": {
+        "id_customer": "CUST73557",
+        "nama": "Sepatek",
+        "no_telepon": "082229474403",
+        "email_verified": 1,
+        "kode_verified": null,
+        "token": "Pjb6nM8YZQfcYnTYhv56KBLsu74fZ0qFvwBOMEs7XxvvjgAb1g0iELkpniGdVVaCBI4nqIRTg43JPJibjxgtrwCt2cU5YqtUcl5BK5vpwqKl0gs7EvWoxEbj70HaiHHSlA4aYQ1xSOk444KQS7bGwkW4j8gbL1B1rmcwkbd80Y5NbQaAegZir4zJvX8HbCoghuQvoxEQ",
+        "token_fcm": "anjaysdgayg",
+        "alamat": "1233 S 5th St, , Mountain View, 91801, United States",
+        "email": "rayhanbetta890@gmail.com",
+        "foto": null,
+        "google_id": null,
+        "created_at": "2023-12-05T10:16:30.000000Z",
+        "updated_at": "2023-12-06T04:00:23.000000Z"
+    },
+    "code": 200,
+    "status": true
+}

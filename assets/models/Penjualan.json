@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id_menu": 20,
+            "nama": "Ayam Geprek",
+            "harga": 10000,
+            "foto": "menu/Ayam_Geprek.jpeg",
+            "status_stok": "ada",
+            "kategori": "makanan",
+            "id_kantin": 2,
+            "diskon": null,
+            "penjualan_hari_ini": "6"
+        },
+        {
+            "id_menu": 16,
+            "nama": "Ayam Bakar",
+            "harga": 12000,
+            "foto": "menu/ayam_bakar.jpg",
+            "status_stok": "ada",
+            "kategori": "makanan",
+            "id_kantin": 1,
+            "diskon": 10,
+            "penjualan_hari_ini": "2"
+        }
+    ],
+    "code": 200,
+    "status": true
+}
